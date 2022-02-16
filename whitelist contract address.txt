@@ -1,0 +1,2 @@
+contract address for whitelist contract
+0xB0484dB4711aA34B133BF9713E216A1ad5114E8B
